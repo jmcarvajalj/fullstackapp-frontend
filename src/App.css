@@ -1,0 +1,14 @@
+#table-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+#table {
+    max-width: 650px;
+}
+
+#App {
+    background-color: #2C3034;
+    height: 100vh;
+}
